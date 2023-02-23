@@ -9,3 +9,7 @@ UrlShorterApi
 > For Testing : http://localhost:5085/swagger/index.html
 
 > For Data : there is a json file in API project /Data directory for collect sample data.
+
+> Requirements 
+- .net 6 sdk
+- nuget restore
