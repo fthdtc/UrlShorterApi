@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CZIltpswaf4tHokO6+zcXhk6y93A5iUOe8pvWpXmMAmvK8mWs+zLLpbx6NDKFwaZTTx0cmyHhClFRYvvxzr7iw==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\doc\\my_project\\source-code\\github-repository\\UrlShorterApi\\UrlShorterApi.Service\\UrlShorterApi.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TCFDARTICI\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

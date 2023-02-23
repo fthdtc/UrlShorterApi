@@ -1,0 +1,17 @@
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\bin\Debug\net6.0\UrlShorterApi.Service.deps.json
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\bin\Debug\net6.0\UrlShorterApi.Service.dll
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\bin\Debug\net6.0\UrlShorterApi.Service.pdb
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\bin\Debug\net6.0\UrlShorterApi.Entity.dll
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\bin\Debug\net6.0\UrlShorterApi.Entity.pdb
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\obj\Debug\net6.0\UrlShorterApi.Service.csproj.AssemblyReference.cache
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\obj\Debug\net6.0\UrlShorterApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\obj\Debug\net6.0\UrlShorterApi.Service.AssemblyInfoInputs.cache
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\obj\Debug\net6.0\UrlShorterApi.Service.AssemblyInfo.cs
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\obj\Debug\net6.0\UrlShorterApi.Service.csproj.CoreCompileInputs.cache
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\obj\Debug\net6.0\UrlShorterApi.Service.csproj.CopyComplete
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\obj\Debug\net6.0\UrlShorterApi.Service.dll
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\obj\Debug\net6.0\refint\UrlShorterApi.Service.dll
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\obj\Debug\net6.0\UrlShorterApi.Service.pdb
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\obj\Debug\net6.0\ref\UrlShorterApi.Service.dll
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\bin\Debug\net6.0\UrlShorterApi.Data.dll
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Service\bin\Debug\net6.0\UrlShorterApi.Data.pdb

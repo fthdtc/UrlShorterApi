@@ -1,0 +1,12 @@
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Data\bin\Debug\net6.0\UrlShorterApi.Data.deps.json
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Data\bin\Debug\net6.0\UrlShorterApi.Data.dll
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Data\bin\Debug\net6.0\UrlShorterApi.Data.pdb
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Data\obj\Debug\net6.0\UrlShorterApi.Data.csproj.AssemblyReference.cache
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Data\obj\Debug\net6.0\UrlShorterApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Data\obj\Debug\net6.0\UrlShorterApi.Data.AssemblyInfoInputs.cache
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Data\obj\Debug\net6.0\UrlShorterApi.Data.AssemblyInfo.cs
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Data\obj\Debug\net6.0\UrlShorterApi.Data.csproj.CoreCompileInputs.cache
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Data\obj\Debug\net6.0\UrlShorterApi.Data.dll
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Data\obj\Debug\net6.0\refint\UrlShorterApi.Data.dll
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Data\obj\Debug\net6.0\UrlShorterApi.Data.pdb
+D:\Dev\doc\my_project\source-code\github-repository\UrlShorterApi\UrlShorterApi.Data\obj\Debug\net6.0\ref\UrlShorterApi.Data.dll
